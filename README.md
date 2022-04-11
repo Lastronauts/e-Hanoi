@@ -13,20 +13,30 @@
 
 ## Repositories
 
-* [Front](https://github.com/Lastronauts/e-Hanoi-Front)
+* [Launcher](https://github.com/Lastronauts/e-Hanoi-Launcher)
+* [Game](https://github.com/Lastronauts/e-Hanoi-Game)
 * [Server](https://github.com/Lastronauts/e-Hanoi-Server)
 
 ## Technical Composition
 
 ![tech](https://user-images.githubusercontent.com/85730998/162648756-eda89a82-fa6a-4f88-97d5-4065736357ec.png)
 
-### フロントエンド
+
+### Launcher
+
+* Rust
+  * Tauri: GUI(Back End)
+* TypeScript
+  * React: GUI(Front End)
+  * Material-UI: GUI(Front End)
+  * firebase: Authentication
+### Game
 
 * Rust
   * Bevy: Game Engine
   * grahql_client: GrahQL Client
 
-### バックエンド
+### Server
 
 * Rust
   * Actix Web: Server
@@ -35,13 +45,19 @@
 
 ## Developers
 
-### フロントエンド
+### Launcher
+
+|dino3616|
+|:-:|
+|[<img src="https://github.com/dino3616.png" width="150px">](https://github.com/dino3616)|
+
+### Game
 
 |PicrossSoldier|dino3616|
 |:-:|:-:|
 |[<img src="https://github.com/PicrossSoldier.png" width="150px">](https://github.com/PicrossSoldier)|[<img src="https://github.com/dino3616.png" width="150px">](https://github.com/dino3616)|
 
-### バックエンド
+### Server
 
 |dino3616|
 |:-:|
