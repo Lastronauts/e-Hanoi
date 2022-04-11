@@ -15,7 +15,7 @@
 
 * [Launcher](https://github.com/Lastronauts/e-Hanoi-Launcher)
 * [Game](https://github.com/Lastronauts/e-Hanoi-Game)
-* [Server](https://github.com/Lastronauts/e-Hanoi-Server)
+* [Back](https://github.com/Lastronauts/e-Hanoi-Back)
 
 ## Technical Composition
 
@@ -36,7 +36,7 @@
   * Bevy: Game Engine
   * grahql_client: GrahQL Client
 
-### Server
+### Back
 
 * Rust
   * Actix Web: Server
@@ -57,7 +57,7 @@
 |:-:|:-:|
 |[<img src="https://github.com/PicrossSoldier.png" width="150px">](https://github.com/PicrossSoldier)|[<img src="https://github.com/dino3616.png" width="150px">](https://github.com/dino3616)|
 
-### Server
+### Back
 
 |dino3616|
 |:-:|
