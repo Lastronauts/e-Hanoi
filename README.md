@@ -19,7 +19,7 @@
 
 ## Technical Composition
 
-![tech](https://user-images.githubusercontent.com/85730998/162648756-eda89a82-fa6a-4f88-97d5-4065736357ec.png)
+![tech](https://user-images.githubusercontent.com/85730998/163727967-1e5c1996-4002-4e5f-9538-1b3731f99eac.png)
 
 
 ### Launcher
@@ -27,9 +27,11 @@
 * Rust
   * Tauri: GUI(Back End)
 * TypeScript
+  * Next: GUI(Front End)
   * React: GUI(Front End)
   * Material-UI: GUI(Front End)
   * firebase: Authentication
+
 ### Game
 
 * Rust
